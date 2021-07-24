@@ -11,7 +11,6 @@ export default function App() {
     <ThemeProvider>
      <Helmet>
       <meta charset="utf-8" data-react-helmet="true" />
-          {/* <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" /> */}
           <meta name="title" content="React Boilerplate | Toggle Language and Darkmode with this Login Boilerplate" property="og:title"  data-react-helmet="true" />
           <meta name="viewport" content="width=device-width, initial-scale=1.0" />
           <meta name="theme-color"  data-react-helmet="true" />
